@@ -1,0 +1,13 @@
+{
+    "id": "Survival",
+    "name": "Survival",
+    "author": ["Aure"],
+    "description": "This mod offers a new take on Balatro's ante scaling. The game is extended to last for 16 Antes instead of 8, with Finisher Blinds every 4 antes and more gradual scaling. For additional challenge, the Survival+ mode starts you off with 2 less Joker slots, gaining an additional slot each time a Finisher Blind is defeated.",
+    "badge_colour": "DF509F",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1~)"
+    ],
+    "prefix": "survival",
+    "main_file": "Survival.lua"
+}
